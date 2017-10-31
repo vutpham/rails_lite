@@ -1,6 +1,6 @@
 # Rails Lite
 
-This rack app uses Ruby's unique metapogramming capability to create logic and functionality for request routing, base controllers, and base models.
+This rack app uses Ruby's unique metaprogramming capability to create logic and functionality for request routing, base controllers, and base models.
 
 ## Setup & Dependencies
 
